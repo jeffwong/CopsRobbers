@@ -1,7 +1,7 @@
 public class Camera {
 
     private int type;
-    private CityLocation location;
+    private CityCell location;
 
     public Camera() {
 

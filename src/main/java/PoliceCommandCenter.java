@@ -8,7 +8,7 @@ public class PoliceCommandCenter {
 
     }
 
-    public void ControlPolice(CityLocation location) {
+    public void ControlPolice(CityCell location) {
 
     }
 

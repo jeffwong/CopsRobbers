@@ -1,11 +1,7 @@
 public class Police extends Person {
 
-    public Police() {
-        super();
-    }
-
-    public Police(String name) {
-        super(name);
+    public Police(String name, CityCell location) {
+        super(name, location);
     }
 
     public void Capture() {

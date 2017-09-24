@@ -1,11 +1,7 @@
 public class Robber extends Person {
 
-    public Robber() {
-        super();
-    }
-
-    public Robber(String name) {
-        super(name);
+    public Robber(String name, CityCell location) {
+        super(name, location);
     }
 
     //Although there is no Run function for a Robber
